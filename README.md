@@ -1,7 +1,7 @@
 ![logo](https://github.com/mohamedmdini/mohamedmdini/blob/main/med.jpg)
 <h1 align="center">Hi 👋, I'm Mohamed Mdini</h1>
 <h3 align="center">A passionnante full Stack developer From Tunisia</h3>
-<img align="right" alt="coding" widh="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" widh="200" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedmdini&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmdini" /> </p>
